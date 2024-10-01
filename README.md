@@ -1,1 +1,2 @@
 # Conception-d-un-protocole-de-communication-securise-par-RSA
+Ce répertoire documente le développement et l'implémentation d'un protocole de communication basé sur TCP, sécurisé via l'algorithme de chiffrement RSA. Ce projet a été réalisé dans le cadre du Master 1 en Mathématiques et Cryptographie à l'Université de Limoges. Il illustre l'utilisation pratique de Python pour le chiffrement des données et la communication réseau sécurisée entre un serveur et un client.
